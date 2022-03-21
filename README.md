@@ -11,6 +11,8 @@
 
 ### <img src="https://go.dev/images/go-logo-white.svg" width="24"/> I’m currently learning ... `Go`
 
+## Github Stats
 
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoehwan)](https://github.com/yoehwan)-->
+[![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoehwan&hide=contribs&show_icons=true)](https://github.com/yoehwan)
 
