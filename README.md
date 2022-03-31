@@ -4,9 +4,10 @@
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9cf)
+
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9cf)
-
-
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9cf)
+![](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=9cf)
 ### <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="24"/> I’m `Flutter` Developer.
 
 ### <img src="https://go.dev/images/go-logo-white.svg" width="24"/> I’m currently learning ... `Go`
